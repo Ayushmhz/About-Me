@@ -54,7 +54,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Ayushmhz/Ayushmhz/output/snake.svg" alt="Snake animation" />
-
-###
